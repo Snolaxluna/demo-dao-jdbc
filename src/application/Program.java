@@ -7,5 +7,6 @@ public class Program {
 
         Department obj = new Department(1, "Books");
         System.out.println(obj);
+        System.out.println("teste");
     }
 }
